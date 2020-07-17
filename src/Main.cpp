@@ -5,6 +5,7 @@
 #include <GFX/2D/TilemapAnim.h>
 #include <GFX/UI/TextRenderer.h>
 #include <Utilities/Input.h>
+
 using namespace Stardust;
 
 int main() {
