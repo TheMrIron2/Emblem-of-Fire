@@ -13,7 +13,7 @@ Emblem of Fire is a Fire Emblem clone under the [Stardust engine](https://github
 ### Notice: There is NO guarantee these features will be implemented at any stage. These are ONLY under consideration at this point in time.
 
 - Online, player versus player multiplayer (cross-platform) - bring your teams online and may the best tactician win!
-- Directly your save data between your PSP and your other devices! 
+- Directly transfer your save data between your PSP and your other devices! 
 
 ## FAQ
 
@@ -23,4 +23,4 @@ Emblem of Fire is a Fire Emblem clone under the [Stardust engine](https://github
 
 **Q:** Will this be an original game?
 
-**A:** Yes, this will be an entirely new game. However, at this point in time, we can't say whether the story will be set in the Fire Emblem universe (due to copyright concerns) or in an original universe.
+**A:** Yes, this will be an entirely new game. However, at this point in time, we can't say whether the story will be set in the Fire Emblem universe or in an original universe due to questions regarding copyright.
